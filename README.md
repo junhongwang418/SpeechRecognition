@@ -14,3 +14,4 @@ Create a speech recognition algorithm that recognizes the following three words:
 5. [TIMIT Data](https://github.com/philipperemy/timit)
 6. [Speech Recognition Logic](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
 7. [Bay Area Deep Learning School Day 2 at CEMEX auditorium, Stanford](https://youtu.be/9dXiAecyJrY?t=13874)
+8. [What is spectrogram?](https://en.wikipedia.org/wiki/Spectrogram)
