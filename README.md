@@ -18,6 +18,6 @@ Create a speech recognition algorithm that recognizes the following three words:
 * [What is acoustic model?](https://en.wikipedia.org/wiki/Acoustic_model)
 * [OpenSLR](http://www.openslr.org/12/)
 * [Wall Street Journal Speech Data](https://catalog.ldc.upenn.edu/ldc93s6a)
-* [Connectionist Temporal Classification](ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf)
+* Connectionist Temporal Classification (ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf)
 * [VoxForge](http://www.voxforge.org/home/downloads)
 * [Beam search](https://en.wikipedia.org/wiki/Beam_search)
