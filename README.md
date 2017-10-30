@@ -16,3 +16,5 @@ Create a speech recognition algorithm that recognizes the following three words:
 * [Bay Area Deep Learning School Day 2 at CEMEX auditorium, Stanford](https://youtu.be/9dXiAecyJrY?t=13874)
 * [What is spectrogram?](https://en.wikipedia.org/wiki/Spectrogram)
 * [What is acoustic model?](https://en.wikipedia.org/wiki/Acoustic_model)
+* [OpenSLR](http://www.openslr.org/12/)
+* [Wall Street Journal Speech Data](https://catalog.ldc.upenn.edu/ldc93s6a)
