@@ -2,10 +2,9 @@
 Objective:
 Create a speech recognition algorithm that recognizes the following three words: "Play", "Stop", and "Next". Then deploy this program on either iPhone or Android to play and stop the music with speech recognition.
 
-![screen shot 2017-10-06 at 9 37 30 pm](https://user-images.githubusercontent.com/21322866/31304763-99f2056a-aade-11e7-993a-4ac1b39ad2f0.png)
-![screen shot 2017-10-29 at 10 43 48 pm](https://user-images.githubusercontent.com/21322866/32156466-de09ce94-bcfa-11e7-83df-49b3b0a912a8.png)
-![screen shot 2017-10-29 at 10 43 44 pm](https://user-images.githubusercontent.com/21322866/32156467-de229528-bcfa-11e7-8581-4a95616d9810.png)
-
+<img width="429" alt="screen shot 2017-10-29 at 10 59 00 pm" src="https://user-images.githubusercontent.com/21322866/32156814-cc29b66a-bcfc-11e7-85cb-a83926a69496.png">
+<img width="371" alt="screen shot 2017-10-29 at 10 57 44 pm" src="https://user-images.githubusercontent.com/21322866/32156770-a5ef09fa-bcfc-11e7-970d-3987552a5abe.png">
+<img width="422" alt="screen shot 2017-10-29 at 10 57 56 pm" src="https://user-images.githubusercontent.com/21322866/32156771-a6084abe-bcfc-11e7-8b56-dffba2a20d30.png">
 
 # Reference
 1. Window function (https://en.wikipedia.org/wiki/Window_function)
